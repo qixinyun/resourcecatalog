@@ -19,12 +19,12 @@ class Template
         unset($this->items);
     }
 
-    public function setItems(int $id) : void
+    public function setId(int $id) : void
     {
         $this->id = $id;
     }
 
-    public function getItems() : int
+    public function getId() : int
     {
         return $this->id;
     }

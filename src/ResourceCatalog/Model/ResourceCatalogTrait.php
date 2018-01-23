@@ -26,15 +26,25 @@ trait ResourceCatalogTrait
 
     public function setType(int $type) : void
     {
+        $types = $this->getTypes();
+
         $this->type = in_array(
-            $type,
-            self::TYPE
-        ) ? $type : self::TYPE['NULL'];
+            $type, $types
+        ) ? $type : self::TYPE['NULL']['id'];
     }
 
     public function getType() : int
     {
         return $this->type;
+    }
+
+    protected function getTypes() : array
+    {
+        $types = array();
+        foreach (self::TYPE as $value) {
+            $types[] = $value['id'];
+        }
+        return $types;
     }
 
 }

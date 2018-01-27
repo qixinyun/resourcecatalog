@@ -10,11 +10,39 @@ interface IResourceCatalog
         'ZIYUANMULU3' => 3
     );
 
-    const TYPE_DETAIL = array(
-        self::TYPE['NULL'] => array('name' => '0', 'identify' => '0', 'enName' => '0'),
-        self::TYPE['ZIYUANMULU1'] => array('name' => '资源目录1', 'identify' => 'ZYML1', 'enName' => 'zyml1'),
-        self::TYPE['ZIYUANMULU2'] => array('name' => '资源目录2', 'identify' => 'ZYML2', 'enName' => 'zyml2'),
-        self::TYPE['ZIYUANMULU3'] => array('name' => '资源目录3', 'identify' => 'ZYML3', 'enName' => 'zyml3')
+    const TYPE_NAME = array(
+        self::TYPE['NULL'] => 0,
+        self::TYPE['ZIYUANMULU1'] => '资源目录1',
+        self::TYPE['ZIYUANMULU2'] => '资源目录2',
+        self::TYPE['ZIYUANMULU3'] => '资源目录3'
+    );
+
+    const TYPE_IDENTFY = array(
+        self::TYPE['NULL'] => 0,
+        self::TYPE['ZIYUANMULU1'] => 'ZYML1',
+        self::TYPE['ZIYUANMULU2'] => 'ZYML2',
+        self::TYPE['ZIYUANMULU3'] => 'ZYML3'
+    );
+
+    const TYPE_ENNAME = array(
+        self::TYPE['NULL'] => 0,
+        self::TYPE['ZIYUANMULU1'] => 'zyml1',
+        self::TYPE['ZIYUANMULU2'] => 'zyml2',
+        self::TYPE['ZIYUANMULU3'] => 'zyml3'
+    );
+    
+    const TYPE_DOUBLE_PUBLICITY = array(
+        self::TYPE['NULL'] => 0,
+        self::TYPE['ZIYUANMULU1'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['LICENSE'],
+        self::TYPE['ZIYUANMULU2'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['SANCTION'],
+        self::TYPE['ZIYUANMULU3'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL']
+    );
+
+    const TYPE_RED_BLACK_LIST = array(
+        self::TYPE['NULL'] => 0,
+        self::TYPE['ZIYUANMULU1'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        self::TYPE['ZIYUANMULU2'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        self::TYPE['ZIYUANMULU3'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL']
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(

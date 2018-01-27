@@ -17,7 +17,7 @@ interface IResourceCatalog
         self::TYPE['ZIYUANMULU3'] => '资源目录3'
     );
 
-    const TYPE_IDENTFY = array(
+    const TYPE_IDENTIFY = array(
         self::TYPE['NULL'] => 0,
         self::TYPE['ZIYUANMULU1'] => 'ZYML1',
         self::TYPE['ZIYUANMULU2'] => 'ZYML2',

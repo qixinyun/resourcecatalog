@@ -9,7 +9,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZYML2' => 2,
         'HRBXX' => 3,
         'ZFCGDLJGXX' => 9,
-        'QYGSZXXX' => 31
+        'QYGSZXXX' => 31,
+        'QYDSXZCFXX' => 32
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -17,7 +18,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         '1' => array(self::TYPE['ZYML1'], self::TYPE['ZYML2']),
         '3' => array(self::TYPE['HRBXX']),
         '9' => array(self::TYPE['ZFCGDLJGXX']),
-        '31' => array(self::TYPE['QYGSZXXX'])
+        '31' => array(self::TYPE['QYGSZXXX']),
+        '32' => array(self::TYPE['QYDSXZCFXX'])
     );
 
     const STATUS_NORMAL = 0;

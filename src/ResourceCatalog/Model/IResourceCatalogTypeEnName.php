@@ -9,6 +9,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZYML2'] => 'zyml2',
         IResourceCatalog::TYPE['HRBXX'] => 'hrbxx',
         IResourceCatalog::TYPE['ZFCGDLJGXX'] => 'zfcgdljgxx',
-        IResourceCatalog::TYPE['QYGSZXXX'] => 'qygszxxx'
+        IResourceCatalog::TYPE['QYGSZXXX'] => 'qygszxxx',
+        IResourceCatalog::TYPE['QYDSXZCFXX'] => 'qydsxzcfxx'
     );
 }

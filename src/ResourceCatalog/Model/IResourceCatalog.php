@@ -13,11 +13,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
-        'NULL' => array(self::TYPE['NULL']),
-        '3' => array(self::TYPE['HRBXX']),
-        '9' => array(self::TYPE['ZFCGDLJGXX']),
-        '31' => array(self::TYPE['QYGSZXXX'], self::TYPE['AJNSRXX']),
-        '32' => array(self::TYPE['QYDSXZCFXX'])
+        IUserGroup::ID['NULL'] => array(self::TYPE['NULL']),
+        IUserGroup::ID['SWMB'] => array(self::TYPE['HRBXX']),
+        IUserGroup::ID['SCZJ'] => array(self::TYPE['ZFCGDLJGXX']),
+        IUserGroup::ID['SGJSWJ'] => array(self::TYPE['QYGSZXXX'], self::TYPE['AJNSRXX']),
+        IUserGroup::ID['SDFSWJ'] => array(self::TYPE['QYDSXZCFXX'])
     );
 
     const STATUS_NORMAL = 0;

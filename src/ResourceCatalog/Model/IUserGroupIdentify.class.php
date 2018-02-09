@@ -3,7 +3,7 @@ namespace ResourceCatalog\Model;
 
 interface IUserGroupIdentify
 {
-    const TYPE_IDENTIFY = array(
+    const IDENTIFY = array(
         IUserGroup::ID['NULL'] => 0,
         IUserGroup::ID['SFZHGGWYH'] => 'SFZHGGWYH',
         IUserGroup::ID['GQTPXSW'] => 'GQTPXSW',

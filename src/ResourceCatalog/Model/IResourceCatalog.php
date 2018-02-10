@@ -5,7 +5,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
 {
     const TYPE = array(
         'NULL' => 0,
-        'YXQNZYZ'=> 2
+        'YXQNZYZ'=> 2,
         'HRBXX' => 3,
         'JKQYPJAJYSMD' => 4,        
         'QXTCHJBHJDXX' => 5,          

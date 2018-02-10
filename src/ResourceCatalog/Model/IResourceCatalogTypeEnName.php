@@ -7,7 +7,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['NULL'] => 0,
         IResourceCatalog::TYPE['YXQNZYZ'] => 'yxqnzyz',
         IResourceCatalog::TYPE['HRBXX'] => 'hrbxx',
-        IResourceCatalog::TYPE['JKQYXYPJAJYSMD'] => 'jkqyxypjajysmd',
+        IResourceCatalog::TYPE['JKQYPJAJYSMD'] => 'jkqypjajysmd',
         IResourceCatalog::TYPE['QXTCHJBHJDXX'] => 'qxtchjbhjdxx',
         IResourceCatalog::TYPE['YSCRJZJJJZGRDXX'] => 'yscrjzjjjzgrdxx',
         IResourceCatalog::TYPE['ZFCGDLJGXX'] => 'zfcgdljgxx',

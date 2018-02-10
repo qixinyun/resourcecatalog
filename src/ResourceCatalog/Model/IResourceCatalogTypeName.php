@@ -7,7 +7,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['NULL'] => 0,
         IResourceCatalog::TYPE['YXQNZYZ'] => '优秀青年志愿者',
         IResourceCatalog::TYPE['HRBXX'] => '好人榜信息',
-        IResourceCatalog::TYPE['JKQYXYPJAJYSMD'] => '借款企业信用评级A级以上名单',
+        IResourceCatalog::TYPE['JKQYPJAJYSMD'] => '借款企业信用评级A级以上名单',
         IResourceCatalog::TYPE['QXTCHJBHJDXX'] => '气象探测环境保护监督信息',
         IResourceCatalog::TYPE['YSCRJZJJJZGRDXX'] => '因私出入境中介机构资格认定信息（境外就业、留学除外）',
         IResourceCatalog::TYPE['ZFCGDLJGXX'] => '政府采购代理机构信息',

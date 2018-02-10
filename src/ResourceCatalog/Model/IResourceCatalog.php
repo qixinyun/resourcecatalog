@@ -7,7 +7,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'NULL' => 0,
         'YXQNZYZ'=> 2
         'HRBXX' => 3,
-        'JKQYXYPJAJYSMD' => 4,        
+        'JKQYPJAJYSMD' => 4,        
         'QXTCHJBHJDXX' => 5,          
         'YSCRJZJJJZGRDXX' => 8,       
         'ZFCGDLJGXX' => 9,
@@ -26,7 +26,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['NULL'] => array(self::TYPE['NULL']),
         IUserGroup::ID['GQTPXSW'] => array(self::TYPE['YXQNZYZ']),
         IUserGroup::ID['SWMB'] => array(self::TYPE['HRBXX']),
-        IUserGroup::ID['RMYHPXSZXZH'] => array(self::TYPE['JKQYXYPJAJYSMD']),
+        IUserGroup::ID['RMYHPXSZXZH'] => array(self::TYPE['JKQYPJAJYSMD']),
         IUserGroup::ID['SQXJ'] => array(self::TYPE['QXTCHJBHJDXX']),
         IUserGroup::ID['SGAJ'] => array(self::TYPE['YSCRJZJJJZGRDXX']),
         IUserGroup::ID['SCZJ'] => array(self::TYPE['ZFCGDLJGXX']),

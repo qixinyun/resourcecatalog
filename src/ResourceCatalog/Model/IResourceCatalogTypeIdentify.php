@@ -51,6 +51,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['PXSTYXHDJXX'] => 'PXSTYXHDJXX',
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => 'DZDAGZZDWGRBZJL',
         IResourceCatalog::TYPE['JXSZLJDW'] => 'JXSZLJDW',
-        IResourceCatalog::TYPE['DTJXJGRXX'] => 'DTJXJGRXX'
+        IResourceCatalog::TYPE['DTJXJGRXX'] => 'DTJXJGRXX',
+        IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

@@ -51,6 +51,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['PXSTYXHDJXX'] => '萍乡市体育协会登记信息',
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => '对在档案工作中作出显著成绩的或者向国家捐赠重要、珍贵档案的单位和个人的表彰或者奖励',
         IResourceCatalog::TYPE['JXSZLJDW'] => '江西省专利奖（单位）',
-        IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息'
+        IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息',
+        IResourceCatalog::TYPE['TEST'] => '测试资源目录'
     );
 }

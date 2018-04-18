@@ -52,11 +52,13 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'DZDAGZZDWGRBZJL' => 45,
         'JXSZLJDW' => 46,
         'DTJXJGRXX' => 47,
+        'XZCFGSXX' => 48,
+        'XZXKGSXX' => 49,
         'TEST' => 500          
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
-        IUserGroup::ID['NULL'] => array(self::TYPE['NULL']),
+        IUserGroup::ID['NULL'] => array(self::TYPE['NULL'], self::TYPE['XZCFGSXX'], self::TYPE['XZXKGSXX']),
         IUserGroup::ID['SFZHGGWYH'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST']),
         IUserGroup::ID['GQTPXSW'] => array(self::TYPE['YXQNZYZ']),
         IUserGroup::ID['SWMB'] => array(self::TYPE['HRBXX']),

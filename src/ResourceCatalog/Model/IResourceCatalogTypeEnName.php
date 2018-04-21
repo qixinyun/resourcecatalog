@@ -52,8 +52,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => 'dzdagzzdwgrbzjl',
         IResourceCatalog::TYPE['JXSZLJDW'] => 'jxszljdw',
         IResourceCatalog::TYPE['DTJXJGRXX'] => 'dtjxjgrxx',
-        IResourceCatalog::TYPE['XZCFGSXX'] => 'xzcfgsxx',
-        IResourceCatalog::TYPE['XZXKGSXX'] => 'xzxkgsxx',
+        IResourceCatalog::TYPE['XZCFXX'] => 'xzcfxx',
+        IResourceCatalog::TYPE['XZXKXX'] => 'xzxkxx',
         IResourceCatalog::TYPE['SXBZXJGXX'] => 'sxbzxjgxx',
         IResourceCatalog::TYPE['SXBZXRMD'] => 'sxbzxrmd',
         IResourceCatalog::TYPE['TEST'] => 'test'

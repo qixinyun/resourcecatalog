@@ -52,8 +52,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => '对在档案工作中作出显著成绩的或者向国家捐赠重要、珍贵档案的单位和个人的表彰或者奖励',
         IResourceCatalog::TYPE['JXSZLJDW'] => '江西省专利奖（单位）',
         IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息',
-        IResourceCatalog::TYPE['XZCFXX'] => '行政处罚公示信息',
-        IResourceCatalog::TYPE['XZXKXX'] => '行政许可公示信息',
+        IResourceCatalog::TYPE['XZCF'] => '行政处罚公示信息',
+        IResourceCatalog::TYPE['XZXK'] => '行政许可公示信息',
         IResourceCatalog::TYPE['SXBZXJGXX'] => '失信被执行机构信息',
         IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'

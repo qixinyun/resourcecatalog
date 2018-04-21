@@ -54,6 +54,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息',
         IResourceCatalog::TYPE['XZCFGSXX'] => '行政处罚公示信息',
         IResourceCatalog::TYPE['XZXKGSXX'] => '行政许可公示信息',
+        IResourceCatalog::TYPE['SXBZXJGXX'] => '失信被执行机构信息',
+        IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

@@ -21,7 +21,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZYJNZSXX'] => '职业技能证书信息',
         IResourceCatalog::TYPE['ZLJCQYXX'] => '质量检测企业信息',
         IResourceCatalog::TYPE['PGJGXX'] => '评估机构信息',
-        IResourceCatalog::TYPE['GRYH'] => '个人用户',
         IResourceCatalog::TYPE['SLGCZBXX'] => '水利工程中标信息',
         IResourceCatalog::TYPE['QYYH'] => '企业用户',
         IResourceCatalog::TYPE['QSLHXJJTJL'] => '全市绿化先进集体奖励',
@@ -56,6 +55,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZXK'] => '行政许可公示信息',
         IResourceCatalog::TYPE['SXBZXJGXX'] => '失信被执行机构信息',
         IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
+        IResourceCatalog::TYPE['YLBXXX'] => '医疗保险信息',
+        IResourceCatalog::TYPE['TJDCDXML'] => '统计调查对象目录',
+        IResourceCatalog::TYPE['JDCWFXX'] => '机动车违法信息（酒后驾车违法信息）',
+        IResourceCatalog::TYPE['GERENYONGHU'] => '个人用户',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

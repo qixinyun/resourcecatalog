@@ -21,7 +21,6 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZYJNZSXX'] => 'zyjnzsxx',
         IResourceCatalog::TYPE['ZLJCQYXX'] => 'zljcqyxx',
         IResourceCatalog::TYPE['PGJGXX'] => 'pgjgxx',
-        IResourceCatalog::TYPE['GRYH'] => 'gryh',
         IResourceCatalog::TYPE['SLGCZBXX'] => 'slgczbxx',
         IResourceCatalog::TYPE['QYYH'] => 'qyyh',
         IResourceCatalog::TYPE['QSLHXJJTJL'] => 'qslhxjjtjl',
@@ -56,6 +55,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZXK'] => 'xzxk',
         IResourceCatalog::TYPE['SXBZXJGXX'] => 'sxbzxjgxx',
         IResourceCatalog::TYPE['SXBZXRMD'] => 'sxbzxrmd',
+        IResourceCatalog::TYPE['YLBXXX'] => 'ylbxxx',
+        IResourceCatalog::TYPE['TJDCDXML'] => 'tjdcdxml',
+        IResourceCatalog::TYPE['JDCWFXX'] => 'jdcwfxx',
+        IResourceCatalog::TYPE['GERENYONGHU'] => 'gerenyonghu',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }

@@ -41,7 +41,6 @@ class ResourceCatalogSjyjModel
             array('englishName'=>'unifiedSocialCreditCode', 'name'=>'统一社会信用代码/学校代码', 'validationRules'=>array()),
             array('englishName'=>'principal', 'name'=>'法人代表', 'validationRules'=>array()),
             array('englishName'=>'cardID', 'name'=>'身份证号', 'validationRules'=>array()),
-            array('englishName'=>'certificateNumber', 'name'=>'证书编号', 'validationRules'=>array()),
             array('englishName'=>'content', 'name'=>'办学内容', 'validationRules'=>array()),
             array('englishName'=>'licensingDate', 'name'=>'许可日期', 'validationRules'=>array()),
             array('englishName'=>'licensingUnit', 'name'=>'许可机构', 'validationRules'=>array()),

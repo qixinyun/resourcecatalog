@@ -16,7 +16,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZFCGDLJGXX'] => '政府采购代理机构信息',
         IResourceCatalog::TYPE['SJQYJSZXRDXX'] => '省级企业技术中心认定信息',
         IResourceCatalog::TYPE['QYRYXX'] => '企业荣誉信息',
-        IResourceCatalog::TYPE['JYJGXX'] => '教育机构信息',
         IResourceCatalog::TYPE['SFJDJGCYRYZGXX'] => '司法鉴定机构从业人员资格信息',
         IResourceCatalog::TYPE['ZYJNZSXX'] => '职业技能证书信息',
         IResourceCatalog::TYPE['ZLJCQYXX'] => '质量检测企业信息',

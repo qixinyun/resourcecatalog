@@ -38,8 +38,6 @@ class TemplateModelFactory
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSgyhxxhwyhModel',
         'QYRYXX'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSgyzcjdglwyhModel',
-        'JYJGXX'=>
-            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
         'SFJDJGCYRYZGXX'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSsfjModel',
         'ZYJNZSXX'=>

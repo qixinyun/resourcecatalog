@@ -47,7 +47,7 @@ class ResourceCatalogSjyjModel
             array('englishName'=>'expirationDate', 'name'=>'有效期限', 'validationRules'=>array()),
             array('englishName'=>'exchangeFrequency', 'name'=>'交换频率', 'validationRules'=>array()),
         ),
-        'JYJGINFO' => array(
+        'JYJGXINXI' => array(
             array('englishName'=>'name', 'name'=>'学校/机构名称', 'validationRules'=>array()),
             array('englishName'=>'unifiedSocialCreditCode', 'name'=>'统一社会信用代码/学校代码', 'validationRules'=>array()),
             array('englishName'=>'principal', 'name'=>'法人代表', 'validationRules'=>array()),

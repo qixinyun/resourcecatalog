@@ -77,7 +77,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SJYXXS'] => '市级三好学生、市级优秀学生干部',
         IResourceCatalog::TYPE['SYBXXX'] => '失业保险信息',
         IResourceCatalog::TYPE['SJJXMXX'] => '社会事业领域中央预算内和省基建项目信息',
-        IResourceCatalog::TYPE['JYJGINFO'] => '教育机构信息',
+        IResourceCatalog::TYPE['JYJGXINXI'] => '教育机构信息',
         IResourceCatalog::TYPE['GRRYXXJYJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['GRRYXXJTJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['GRRYXXLFW'] => '个人荣誉信息',

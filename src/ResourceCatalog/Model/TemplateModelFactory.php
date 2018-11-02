@@ -150,7 +150,7 @@ class TemplateModelFactory
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
         'SJYXXS'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
-        'JYJGINFO'=>
+        'JYJGXINXI'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
         'GRRYXXJYJ'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',

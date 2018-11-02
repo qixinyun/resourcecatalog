@@ -38,8 +38,6 @@ class TemplateModelFactory
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSgyhxxhwyhModel',
         'QYRYXX'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSgyzcjdglwyhModel',
-        'JYJGXX'=>
-            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
         'SFJDJGCYRYZGXX'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSsfjModel',
         'ZYJNZSXX'=>
@@ -110,6 +108,58 @@ class TemplateModelFactory
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSdajModel',
         'JXSZLJDW'=>
             'ResourceCatalog\Model\TemplateModel\ResourceCatalogSkxjsjModel',
+        'GTGSHXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'CMQYSBXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'YPLSQYXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'JGRYXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'SXQYHMD'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'SPYPTSJBJLGR'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'SPYPTSJBJLDW'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'JXMPCPXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'QYYCMLXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSschzljggljModel',
+        'ZYZXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSwmbModel',
+        'XJFDPDXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSlyfzwyhModel',
+        'DYZGXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSlyfzwyhModel',
+        'LXSDJXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSlyfzwyhModel',
+        'GRRYXXLFW'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSlyfzwyhModel',
+        'DWAQSCHMDXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSaqscjdgljModel',
+        'GRRYXXAJJ'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSaqscjdgljModel',
+        'YZTQSBXXHMD'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSrlzyhshbzjModel',
+        'SYBXXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSrlzyhshbzjModel',
+        'JSZGXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
+        'SJYXXS'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
+        'JYJGXINXI'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
+        'GRRYXXJYJ'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjyjModel',
+        'SJJXMXX'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSfzhggwyhModel',
+        'GRRYXXJTJ'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSjtysjModel',
+        'GRRYXXGDJ'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSwhgdxwcbsModel',
+        'GRRYXXMZJ'=>
+            'ResourceCatalog\Model\TemplateModel\ResourceCatalogSmzjModel',
     );
 
     public function getTemplateModel(string $typeName)

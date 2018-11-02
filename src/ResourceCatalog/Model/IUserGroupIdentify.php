@@ -38,7 +38,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['SGJSWJ'] => 'SGJSWJ',
         IUserGroup::ID['SDFSWJ'] => 'SDFSWJ',
         IUserGroup::ID['STJJ'] => 'STJJ',
-        IUserGroup::ID['SSCHZLJGGLJ'] => 'SSCHZLJGGLJ',
+        IUserGroup::ID['SSCHZLJGGLJ'] => 'SZJJ',
         IUserGroup::ID['SAQSCJDGLJ'] => 'SAJGJ',
         IUserGroup::ID['ZGYDPXFGS'] => 'ZGYDPXFGS',
         IUserGroup::ID['PXHCZPXBZ'] => 'PXHCZPXBZ',

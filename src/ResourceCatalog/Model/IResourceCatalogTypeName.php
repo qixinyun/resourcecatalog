@@ -84,6 +84,18 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GRRYXXMZJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['GRRYXXAJJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['QYYCMLXX'] => '企业异常名录信息',
+        IResourceCatalog::TYPE['SBQYXX'] => '社保企业信息',
+        IResourceCatalog::TYPE['SFJDJGDJXX'] => '司法鉴定机构登记信息',
+        IResourceCatalog::TYPE['GZJGJBXX'] => '公证机构基本信息',
+        IResourceCatalog::TYPE['GZYXX'] => '公证员信息',
+        IResourceCatalog::TYPE['JCFLFWSXX'] => '基层法律服务所信息',
+        IResourceCatalog::TYPE['JCFLFWGZZJBXX'] => '基层法律服务工作者基本信息',
+        IResourceCatalog::TYPE['LSSWSXX'] => '律师事务所信息',
+        IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
+        IResourceCatalog::TYPE['QFGRYHXX'] => '欠费个人用户信息',
+        IResourceCatalog::TYPE['QFQYYHXX'] => '欠费企业（机构）用户信息',
+        IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
+        IResourceCatalog::TYPE['TRQYHJBXX'] => '天然气用户基本信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

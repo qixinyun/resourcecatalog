@@ -36,7 +36,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYGSZXXX'] => '企业国税注销信息',
         IResourceCatalog::TYPE['QYDSXZCFXX'] => '企业地税行政处罚信息',
         IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
-        IResourceCatalog::TYPE['QYJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['WXHXPQYBHGLQD'] => '危险化学品企业编号管理清单',
         IResourceCatalog::TYPE['EYQFDGRXX'] => '恶意欠费的个人信息',
         IResourceCatalog::TYPE['WFWGTPXX'] => '违法违规逃票信息',
@@ -96,6 +95,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QFQYYHXX'] => '欠费企业（机构）用户信息',
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
         IResourceCatalog::TYPE['TRQYHJBXX'] => '天然气用户基本信息',
+        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

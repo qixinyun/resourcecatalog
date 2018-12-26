@@ -104,10 +104,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
     const USERGROUP_TYPE_RELATIONSHIP = array(
         IUserGroup::ID['NULL'] => array(
             self::TYPE['NULL'], 
-            self::TYPE['XZCF'], 
-            self::TYPE['XZXK'], 
             self::TYPE['XBXZCF'], 
-            self::TYPE['XBXZXK']
+            self::TYPE['XBXZXK'],
+            self::TYPE['XZCF'], 
+            self::TYPE['XZXK']
         ),
         IUserGroup::ID['SFZHGGWYH'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX']),
         IUserGroup::ID['GQTPXSW'] => array(self::TYPE['YXQNZYZ']),

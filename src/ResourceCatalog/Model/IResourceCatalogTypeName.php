@@ -96,6 +96,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
         IResourceCatalog::TYPE['TRQYHJBXX'] => '天然气用户基本信息',
         IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
+        IResourceCatalog::TYPE['XBXZCF'] => '2019行政处罚公示信息',
+        IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

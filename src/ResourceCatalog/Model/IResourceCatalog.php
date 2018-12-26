@@ -95,12 +95,20 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QFQYYHXX' => 91,
         'FDCKFQYZZXX' => 92,
         'TRQYHJBXX' => 93,
-        'QIYEJBXX' => 94,    
+        'QIYEJBXX' => 94,  
+        'XBXZCF' => 95,
+        'XBXZXK' => 96,     
         'TEST' => 500          
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
-        IUserGroup::ID['NULL'] => array(self::TYPE['NULL'], self::TYPE['XZCF'], self::TYPE['XZXK']),
+        IUserGroup::ID['NULL'] => array(
+            self::TYPE['NULL'], 
+            self::TYPE['XZCF'], 
+            self::TYPE['XZXK'], 
+            self::TYPE['XBXZCF'], 
+            self::TYPE['XBXZXK']
+        ),
         IUserGroup::ID['SFZHGGWYH'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX']),
         IUserGroup::ID['GQTPXSW'] => array(self::TYPE['YXQNZYZ']),
         IUserGroup::ID['SWMB'] => array(self::TYPE['HRBXX'], self::TYPE['ZYZXX']),

@@ -96,6 +96,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => 'FDCKFQYZZXX',
         IResourceCatalog::TYPE['TRQYHJBXX'] => 'TRQYHJBXX',
         IResourceCatalog::TYPE['QIYEJBXX'] => 'QIYEJBXX',
+        IResourceCatalog::TYPE['XBXZCF'] => 'XBXZCF',
+        IResourceCatalog::TYPE['XBXZXK'] => 'XBXZXK',
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

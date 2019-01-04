@@ -98,6 +98,17 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['XBXZCF'] => '2019行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
+        IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
+        IResourceCatalog::TYPE['SBYHJBXX'] => '水表用户基本信息',
+        IResourceCatalog::TYPE['YSZYZCHBGZC'] => '医师执业注册和变更注册',
+        IResourceCatalog::TYPE['YSZYZGZXX'] => '医师执业资格证信息',
+        IResourceCatalog::TYPE['WSHJHSYWYHJCXX'] => '卫生和计划生育委员会基础信息',
+        IResourceCatalog::TYPE['YLHJSFWJGXX'] => '医疗和计生服务机构信息',
+        IResourceCatalog::TYPE['JBYFKZJGXX'] => '疾病预防控制机构信息',
+        IResourceCatalog::TYPE['FYCRYJLXX'] => '妇幼处荣誉奖励信息',
+        IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => '卫生专业技术资格考试违纪信息',
+        IResourceCatalog::TYPE['QSWCXXXJDWBZ'] => '对全市无偿献血先进单位的表彰奖励',
+        IResourceCatalog::TYPE['YZTQNMGGZHMD'] => '严重拖欠农民工工资黑名单',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

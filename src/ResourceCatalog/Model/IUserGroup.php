@@ -29,7 +29,7 @@ interface IUserGroup extends IUserGroupIdentify
         'SLYFZWYH' => 22,
         'SFDCGLJ' => 23,
         'SHJBHJ' => 24,
-        'SSWJ' => 25, 
+        'SSWJ' => 25,
         'SMZJ' => 26,
         'SNYJ' => 27,
         'SWHGDXWCBS' => 28,
@@ -39,7 +39,7 @@ interface IUserGroup extends IUserGroupIdentify
         'SDFSWJ' => 32,
         'STJJ' => 33,
         'SSCHZLJGGLJ' => 34,
-        'SAQSCJDGLJ' => 35, 
+        'SAQSCJDGLJ' => 35,
         'ZGYDPXFGS' => 36,
         'PXHCZPXBZ' => 37,
         'SYJFJ' => 38,
@@ -49,7 +49,8 @@ interface IUserGroup extends IUserGroupIdentify
         'ZGLTPXFGS' => 42,
         'SJGBZWYHBGS' => 43,
         'STYJ' => 44,
-        'SDAJ' => 45, 
-        'SKXJSJ' => 46
+        'SDAJ' => 45,
+        'SKXJSJ' => 46,
+        'SWGS' => 64,
     );
 }

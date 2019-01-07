@@ -50,6 +50,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['SJGBZWYHBGS'] => 'SBB',
         IUserGroup::ID['STYJ'] => 'STYJ',
         IUserGroup::ID['SDAJ'] => 'SDAJ',
-        IUserGroup::ID['SKXJSJ'] => 'SKJJ'
+        IUserGroup::ID['SKXJSJ'] => 'SKJJ',
+        IUserGroup::ID['SWGS'] => 'SWGS'
     );
 }

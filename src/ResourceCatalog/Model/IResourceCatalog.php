@@ -231,7 +231,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SJGBZWYHBGS'] => array(self::TYPE['SYDWFRDJXX']),
         IUserGroup::ID['STYJ'] => array(self::TYPE['PXSTYXHDJXX']),
         IUserGroup::ID['SDAJ'] => array(self::TYPE['DZDAGZZDWGRBZJL']),
-        IUserGroup::ID['SKXJSJ'] => array(self::TYPE['JXSZLJDW'])
+        IUserGroup::ID['SKXJSJ'] => array(self::TYPE['JXSZLJDW']),
+        IUserGroup::ID['SWGS'] => array(self::TYPE['SBYHJBXX'])
     );
 
     const STATUS_NORMAL = 0;

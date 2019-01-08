@@ -112,6 +112,11 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => 'wszyjszgkswjxx',
         IResourceCatalog::TYPE['QSWCXXXJDWBZ'] => 'qswcxxxjdwbz',
         IResourceCatalog::TYPE['YZTQNMGGZHMD'] => 'yztqnmggzhmd',
+        IResourceCatalog::TYPE['JGRYXXSWGXJ'] => 'jgryxxswgxj',
+        IResourceCatalog::TYPE['JGRYXXSAJGJ'] => 'jgryxxsajgj',
+        IResourceCatalog::TYPE['JGRYXXSJYJ'] => 'jgryxxsjyj',
+        IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
+        IResourceCatalog::TYPE['JGRYXXSSFJ'] => 'jgryxxssfj',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }

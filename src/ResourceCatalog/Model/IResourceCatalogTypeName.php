@@ -109,6 +109,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => '卫生专业技术资格考试违纪信息',
         IResourceCatalog::TYPE['QSWCXXXJDWBZ'] => '对全市无偿献血先进单位的表彰奖励',
         IResourceCatalog::TYPE['YZTQNMGGZHMD'] => '严重拖欠农民工工资黑名单',
+        IResourceCatalog::TYPE['JGRYXXSWGXJ'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['JGRYXXSAJGJ'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['JGRYXXSJYJ'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['JGRYXXSSFJ'] => '机构荣誉信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

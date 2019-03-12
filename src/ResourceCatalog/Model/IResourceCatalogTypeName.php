@@ -116,6 +116,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JGRYXXSSFJ'] => '机构荣誉信息',
         IResourceCatalog::TYPE['MBFQYML'] => '民办非企业名录',
         IResourceCatalog::TYPE['SHTTDJXX'] => '社会团体登记信息',
+        IResourceCatalog::TYPE['QYZXXX'] => '企业注销信息',
+        IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
+        IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

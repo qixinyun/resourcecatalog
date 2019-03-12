@@ -119,6 +119,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'JGRYXXSSFJ' => 112,
         'MBFQYML' => 113,
         'SHTTDJXX' => 114,
+        'QYZXXX' => 115,             
+        'QYDXXX' => 116,              
+        'CCJCJGXX' = 117, 
         'TEST' => 500
     );
 

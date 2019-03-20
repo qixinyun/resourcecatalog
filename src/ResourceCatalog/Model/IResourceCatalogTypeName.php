@@ -119,6 +119,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYZXXX'] => '企业注销信息',
         IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
+        IResourceCatalog::TYPE['JGRYXXSLFW'] => '机构荣誉信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

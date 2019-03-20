@@ -119,6 +119,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QYZXXX'] => 'QYZXXX',
         IResourceCatalog::TYPE['QYDXXX'] => 'QYDXXX',
         IResourceCatalog::TYPE['CCJCJGXX'] => 'CCJCJGXX',
+        IResourceCatalog::TYPE['JGRYXXSLFW'] => 'JGRYXXSLFW',
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

@@ -123,6 +123,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QYDXXX'] => 'qydxxx',
         IResourceCatalog::TYPE['CCJCJGXX'] => 'ccjcjgxx',
         IResourceCatalog::TYPE['JGRYXXSLFW'] => 'jgryxxslfw',
+        IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'zdsswfajxx',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }

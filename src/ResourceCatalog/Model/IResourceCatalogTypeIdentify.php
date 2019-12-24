@@ -122,6 +122,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JGRYXXSLFW'] => 'JGRYXXSLFW',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'ZDSSWFAJXX',
         IResourceCatalog::TYPE['GGXYZHPJ'] => 'GGXYZHPJ',
+        IResourceCatalog::TYPE['DLYHSXHMDJG'] => 'DLYHSXHMDJG',
+        IResourceCatalog::TYPE['DLYHSXHMDZRR'] => 'DLYHSXHMDZRR',
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

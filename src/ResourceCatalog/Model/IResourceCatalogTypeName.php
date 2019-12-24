@@ -122,6 +122,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JGRYXXSLFW'] => '机构荣誉信息',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => '重大税收违法案件信息',
         IResourceCatalog::TYPE['GGXYZHPJ'] => '公共信用综合评价',
+        IResourceCatalog::TYPE['DLYHSXHMDJG'] => '电力用户失信黑名单（机构）',
+        IResourceCatalog::TYPE['DLYHSXHMDZRR'] => '电力用户失信黑名单（自然人）',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

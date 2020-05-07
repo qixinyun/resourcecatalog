@@ -127,6 +127,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['GGXYZHPJ'] => 'ggxyzhpj',
         IResourceCatalog::TYPE['DLYHSXHMDJG'] => 'dlyhsxhmdjg',
         IResourceCatalog::TYPE['DLYHSXHMDZRR'] => 'dlyhsxhmdzrr',
+        IResourceCatalog::TYPE['ZGDKXX'] => 'zgdkxx',
+        IResourceCatalog::TYPE['ZGGJJXX'] => 'zggjjxx',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }

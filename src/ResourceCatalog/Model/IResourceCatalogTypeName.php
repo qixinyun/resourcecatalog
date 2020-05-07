@@ -124,6 +124,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GGXYZHPJ'] => '公共信用综合评价',
         IResourceCatalog::TYPE['DLYHSXHMDJG'] => '电力用户失信黑名单（机构）',
         IResourceCatalog::TYPE['DLYHSXHMDZRR'] => '电力用户失信黑名单（自然人）',
+        IResourceCatalog::TYPE['ZGDKXX'] => '职工贷款信息',
+        IResourceCatalog::TYPE['ZGGJJXX'] => '职工公积金信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

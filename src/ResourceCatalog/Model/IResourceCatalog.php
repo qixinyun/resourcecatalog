@@ -129,6 +129,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'DLYHSXHMDZRR' => 122,
         'ZGDKXX' => 123,
         'ZGGJJXX' => 124,
+        'HGRZSXQYMD' => 125,
         'TEST' => 500
     );
 
@@ -269,8 +270,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SDAJ'] => array(self::TYPE['DZDAGZZDWGRBZJL']),
         IUserGroup::ID['SKXJSJ'] => array(self::TYPE['JXSZLJDW']),
         IUserGroup::ID['SWGS'] => array(self::TYPE['SBYHJBXX']),
-
-        IUserGroup::ID['PXSGJJGLZX'] => array(self::TYPE['ZGDKXX'],self::TYPE['ZGGJJXX'])
+        IUserGroup::ID['PXSGJJGLZX'] => array(self::TYPE['ZGDKXX'],self::TYPE['ZGGJJXX']),
+        IUserGroup::ID['PXHG'] => array(self::TYPE['HGRZSXQYMD']),
     );
 
     const STATUS_NORMAL = 0;

@@ -127,6 +127,7 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['ZGDKXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['ZGGJJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['HGRZSXQYMD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        IResourceCatalog::TYPE['QIYEJBXXNEW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL']
     );
 }

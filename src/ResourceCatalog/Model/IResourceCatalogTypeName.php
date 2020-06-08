@@ -95,7 +95,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QFQYYHXX'] => '欠费企业（机构）用户信息',
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
         IResourceCatalog::TYPE['TRQYHJBXX'] => '天然气用户基本信息',
-        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
+        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息（旧）',
         IResourceCatalog::TYPE['XBXZCF'] => '2019行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
         IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
@@ -127,6 +127,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZGDKXX'] => '职工贷款信息',
         IResourceCatalog::TYPE['ZGGJJXX'] => '职工公积金信息',
         IResourceCatalog::TYPE['HGRZSXQYMD'] => '海关认证失信企业名单',
+        IResourceCatalog::TYPE['QIYEJBXXNEW'] => '企业基本信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

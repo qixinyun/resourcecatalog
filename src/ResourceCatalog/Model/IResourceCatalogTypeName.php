@@ -128,6 +128,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZGGJJXX'] => '职工公积金信息',
         IResourceCatalog::TYPE['HGRZSXQYMD'] => '海关认证失信企业名单',
         IResourceCatalog::TYPE['QIYEJBXXNEW'] => '企业基本信息',
+        IResourceCatalog::TYPE['HTLY'] => '合同履约',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

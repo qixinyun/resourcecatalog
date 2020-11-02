@@ -95,7 +95,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QFQYYHXX'] => '欠费企业（机构）用户信息',
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
         IResourceCatalog::TYPE['TRQYHJBXX'] => '天然气用户基本信息',
-        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
+        IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息（旧）',
         IResourceCatalog::TYPE['XBXZCF'] => '2019行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
         IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
@@ -124,6 +124,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GGXYZHPJ'] => '公共信用综合评价',
         IResourceCatalog::TYPE['DLYHSXHMDJG'] => '电力用户失信黑名单（机构）',
         IResourceCatalog::TYPE['DLYHSXHMDZRR'] => '电力用户失信黑名单（自然人）',
+        IResourceCatalog::TYPE['ZGDKXX'] => '职工贷款信息',
+        IResourceCatalog::TYPE['ZGGJJXX'] => '职工公积金信息',
+        IResourceCatalog::TYPE['HGRZSXQYMD'] => '海关认证失信企业名单',
+        IResourceCatalog::TYPE['QIYEJBXXNEW'] => '企业基本信息',
+        IResourceCatalog::TYPE['HTLY'] => '合同履约',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

@@ -130,5 +130,7 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QIYEJBXXNEW'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HTLY'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['DBHXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        //@position
     );
 }

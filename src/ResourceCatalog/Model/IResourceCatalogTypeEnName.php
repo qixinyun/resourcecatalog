@@ -132,6 +132,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HGRZSXQYMD'] => 'hgrzsxqymd',
         IResourceCatalog::TYPE['QIYEJBXXNEW'] => 'qiyejbxxnew',
         IResourceCatalog::TYPE['HTLY'] => 'htly',
-        IResourceCatalog::TYPE['TEST'] => 'test'
+        IResourceCatalog::TYPE['TEST'] => 'test',
+IResourceCatalog::TYPE['DBHXX'] => 'dbhxx',
+        //@position
     );
 }

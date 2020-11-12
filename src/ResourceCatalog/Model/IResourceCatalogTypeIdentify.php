@@ -129,6 +129,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HGRZSXQYMD'] => 'HGRZSXQYMD',
         IResourceCatalog::TYPE['QIYEJBXXNEW'] => 'QIYEJBXXNEW',
         IResourceCatalog::TYPE['HTLY'] => 'HTLY',
-        IResourceCatalog::TYPE['TEST'] => 'TEST'
+        IResourceCatalog::TYPE['TEST'] => 'TEST',
+IResourceCatalog::TYPE['DBHXX'] => 'DBHXX',
+        //@position
     );
 }

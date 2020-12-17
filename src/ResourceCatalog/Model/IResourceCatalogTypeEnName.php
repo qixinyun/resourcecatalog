@@ -134,6 +134,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HTLY'] => 'htly',
         IResourceCatalog::TYPE['TEST'] => 'test',
 IResourceCatalog::TYPE['DBHXX'] => 'dbhxx',
+IResourceCatalog::TYPE['CCWLJJLXX'] => 'ccwljjlxx',
+IResourceCatalog::TYPE['CCWLYQXX'] => 'ccwlyqxx',
         //@position
     );
 }

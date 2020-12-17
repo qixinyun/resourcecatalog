@@ -131,6 +131,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HTLY'] => '合同履约',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
 IResourceCatalog::TYPE['DBHXX'] => '低保户信息',
+IResourceCatalog::TYPE['CCWLJJLXX'] => '仓储物流寄件量信息',
+IResourceCatalog::TYPE['CCWLYQXX'] => '仓储物流逾期信息',
         //@position
     );
 }

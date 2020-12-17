@@ -133,7 +133,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QIYEJBXXNEW' => 126,
         'HTLY'=>127,
 'DBHXX'=>128,
-        //@position_type_129
+'CCWLJJLXX'=>129,
+'CCWLYQXX'=>130,
+        //@position_type_131
         'TEST' => 500
     );
 
@@ -277,6 +279,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SWGS'] => array(self::TYPE['SBYHJBXX']),
         IUserGroup::ID['PXSGJJGLZX'] => array(self::TYPE['ZGDKXX'],self::TYPE['ZGGJJXX']),
         IUserGroup::ID['PXHG'] => array(self::TYPE['HGRZSXQYMD']),
+IUserGroup::ID['SYZGLJ'] => array(self::TYPE['CCWLYQXX'],self::TYPE['CCWLJJLXX']),
         //@position_usergroup
     );
 

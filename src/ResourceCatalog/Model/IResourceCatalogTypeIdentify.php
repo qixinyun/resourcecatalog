@@ -131,6 +131,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HTLY'] => 'HTLY',
         IResourceCatalog::TYPE['TEST'] => 'TEST',
 IResourceCatalog::TYPE['DBHXX'] => 'DBHXX',
+IResourceCatalog::TYPE['CCWLJJLXX'] => 'CCWLJJLXX',
+IResourceCatalog::TYPE['CCWLYQXX'] => 'CCWLYQXX',
         //@position
     );
 }

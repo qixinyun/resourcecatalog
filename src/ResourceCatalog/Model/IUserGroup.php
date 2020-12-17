@@ -54,5 +54,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SWGS' => 64,
         'PXSGJJGLZX' => 99,
         'PXHG' => 92,
+        'SYZGLJ' => 128
     );
 }

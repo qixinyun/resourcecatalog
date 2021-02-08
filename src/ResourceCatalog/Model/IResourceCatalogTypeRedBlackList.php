@@ -151,6 +151,7 @@ IResourceCatalog::TYPE['RYBZXX'] => ISearchableResourceCatalogData::RED_BLACK_LI
 IResourceCatalog::TYPE['RYJLXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
 IResourceCatalog::TYPE['ZRRGYSYJFXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
 IResourceCatalog::TYPE['ZRRTQGYSYFXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+IResourceCatalog::TYPE['SHJZSXRYMD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }

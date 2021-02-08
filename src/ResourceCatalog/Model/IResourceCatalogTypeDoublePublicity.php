@@ -151,6 +151,7 @@ IResourceCatalog::TYPE['RYBZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLI
 IResourceCatalog::TYPE['RYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['ZRRGYSYJFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['ZRRTQGYSYFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['SHJZSXRYMD'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

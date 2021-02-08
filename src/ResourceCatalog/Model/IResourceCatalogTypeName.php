@@ -151,6 +151,7 @@ IResourceCatalog::TYPE['RYBZXX'] => '荣誉表彰信息',
 IResourceCatalog::TYPE['RYJLXX'] => '荣誉奖励信息',
 IResourceCatalog::TYPE['ZRRGYSYJFXX'] => '自然人公用事业缴费信息',
 IResourceCatalog::TYPE['ZRRTQGYSYFXX'] => '自然人拖欠公用事业费信息',
+IResourceCatalog::TYPE['SHJZSXRYMD'] => '社会救助失信人员名单',
         //@position
     );
 }

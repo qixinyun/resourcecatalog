@@ -154,6 +154,7 @@ IResourceCatalog::TYPE['RYBZXX'] => 'rybzxx',
 IResourceCatalog::TYPE['RYJLXX'] => 'ryjlxx',
 IResourceCatalog::TYPE['ZRRGYSYJFXX'] => 'zrrgysyjfxx',
 IResourceCatalog::TYPE['ZRRTQGYSYFXX'] => 'zrrtqgysyfxx',
+IResourceCatalog::TYPE['SHJZSXRYMD'] => 'shjzsxrymd',
         //@position
     );
 }

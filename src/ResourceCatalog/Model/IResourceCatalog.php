@@ -164,8 +164,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK'],
             self::TYPE['XZCF'],
-            self::TYPE['XZXK'],
-            self::TYPE['HTLY']
+            self::TYPE['XZXK']
         ),
         IUserGroup::ID['SFZHGGWYH'] => array(self::TYPE['RYJLXX'],self::TYPE['RYBZXX'],self::TYPE['DFXYF'],self::TYPE['DFXRMDXXZRR'],self::TYPE['DFXBMDXXZRR'],self::TYPE['DFXRMDXXFR'],self::TYPE['DFXBMDXXFR'],self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX'], self::TYPE['GGXYZHPJ']),
         IUserGroup::ID['GQTPXSW'] => array(self::TYPE['YXQNZYZ']),

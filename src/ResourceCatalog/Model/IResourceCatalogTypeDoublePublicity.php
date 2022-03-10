@@ -155,6 +155,9 @@ interface IResourceCatalogTypeDoublePublicity
 IResourceCatalog::TYPE['FRSBJFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['FRZSCQZYXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['ZSCQDJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['QYMXBDCDJQK'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['QYMXFCDYXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['XZQZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

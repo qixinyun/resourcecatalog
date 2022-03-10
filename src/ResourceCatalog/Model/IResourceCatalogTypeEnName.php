@@ -158,6 +158,9 @@ interface IResourceCatalogTypeEnName
 IResourceCatalog::TYPE['FRSBJFXX'] => 'frsbjfxx',
 IResourceCatalog::TYPE['FRZSCQZYXX'] => 'frzscqzyxx',
 IResourceCatalog::TYPE['ZSCQDJXX'] => 'zscqdjxx',
+IResourceCatalog::TYPE['QYMXBDCDJQK'] => 'qymxbdcdjqk',
+IResourceCatalog::TYPE['QYMXFCDYXX'] => 'qymxfcdyxx',
+IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         //@position
     );
 }

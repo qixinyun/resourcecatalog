@@ -155,6 +155,9 @@ interface IResourceCatalogTypeName
 IResourceCatalog::TYPE['FRSBJFXX'] => '法人社保缴费信息',
 IResourceCatalog::TYPE['FRZSCQZYXX'] => '法人知识产权质押信息',
 IResourceCatalog::TYPE['ZSCQDJXX'] => '知识产权登记信息',
+IResourceCatalog::TYPE['QYMXBDCDJQK'] => '企业名下不动产登记情况',
+IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
+IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         //@position
     );
 }

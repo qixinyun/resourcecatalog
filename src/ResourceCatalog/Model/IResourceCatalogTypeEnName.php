@@ -160,13 +160,18 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZSCQDJXX'] => 'zscqdjxx',
         IResourceCatalog::TYPE['QYMXBDCDJQK'] => 'qymxbdcdjqk',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => 'qymxfcdyxx',
-        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
+        // IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         IResourceCatalog::TYPE['DFXX'] => 'dfxx',
         IResourceCatalog::TYPE['FZCNSHXX'] => 'fzcnshxx',
         IResourceCatalog::TYPE['NSXX'] => 'nsxx',
         IResourceCatalog::TYPE['QSXX'] => 'qsxx',
         IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
         IResourceCatalog::TYPE['SFXX'] => 'sfxx',
+        IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
+        IResourceCatalog::TYPE['XZJDJCXX'] => 'xzjdjcxx',
+        IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
+        IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
+        IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
         //@position
     );
 }

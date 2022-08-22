@@ -157,13 +157,18 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZSCQDJXX'] => '知识产权登记信息',
         IResourceCatalog::TYPE['QYMXBDCDJQK'] => '企业名下不动产登记情况',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
-        IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+        // IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         IResourceCatalog::TYPE['DFXX'] => '电费信息',
         IResourceCatalog::TYPE['FZCNSHXX'] => '非正常纳税户信息',
         IResourceCatalog::TYPE['NSXX'] => '纳税信息',
         IResourceCatalog::TYPE['QSXX'] => '欠税信息',
         IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
         IResourceCatalog::TYPE['SFXX'] => '水费信息',
+        IResourceCatalog::TYPE['XZCJXX'] => '行政裁决信息',
+        IResourceCatalog::TYPE['XZJDJCXX'] => '行政监督检查信息',
+        IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
+        IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
+        IResourceCatalog::TYPE['XZQZ'] => '行政强制信息',
         //@position
     );
 }

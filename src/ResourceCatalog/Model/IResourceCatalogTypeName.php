@@ -169,6 +169,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
         IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
         IResourceCatalog::TYPE['XZQZ'] => '行政强制信息',
+        IResourceCatalog::TYPE['HBXYPJQK'] => '环保信用评价情况',
+        IResourceCatalog::TYPE['KJYFXX'] => '科技研发信息',
+        IResourceCatalog::TYPE['XXNYJYZTXX'] => '新型农业经营主体信息',
         //@position
     );
 }
